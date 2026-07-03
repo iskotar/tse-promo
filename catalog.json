@@ -1,0 +1,636 @@
+{
+  "catalogVersion": "1",
+  "packages": [
+    {
+      "packageId": "generic-core-pack",
+      "version": "0.2.0",
+      "assetSchemaVersion": "1",
+      "artifactReference": "packages/generic-core-pack-0.2.0.zip",
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "aeeaaf20828eca69f918e701a945ca7e15db6c4ff922660d7d1441701c9da348"
+      },
+      "size": 41024221,
+      "compatibility": {},
+      "contents": [
+        {
+          "assetId": "album-1-default/ambient/adventure/abydos_music-highlanders-ballad-246980.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "215a4230f10fd137a156ed52c6c54d2a311d3b890c0eb7f3d549eea152ab7827"
+          },
+          "size": 3600762
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/dominique_garnier-epic-cinematic-adventure-tribal-celtic-the-birth-293903.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "fd0fed88380065c9086819c9caa5d13608e4b2c911f417041a9b35ddf4cbd3a8"
+          },
+          "size": 1608351
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/emotional-adventure-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ae6c2df327025c58fe81e9e1e2dba4b86344948f7126e0f92984b3aaeaadd865"
+          },
+          "size": 978068
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/juliush-fairy-chant-elven-song-epic-music-amp-vocals-1229.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "810dff71f36d03d7f3d524e15a227dd40b409ab9b60b7ee513d9311e14226b94"
+          },
+          "size": 1668955
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/luis_humanoide-middle-earth-fantasy-music-inspired-by-lord-of-the-rings-261464.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "853f6d5d66d5dc79d79ad7a25bc8236842e589725e44ffaddcc40afe3738a0be"
+          },
+          "size": 3297324
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/mystery-adventure-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ac3e96c771106ad58591a66797b1c32267f05c33c3b58c6a857338033e8e64c5"
+          },
+          "size": 569722
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/mystery-puzzle-adventure-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "141664011b2d212b11fa9785189044ce30cd0727888c7cd224e36179171df233"
+          },
+          "size": 2361884
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/suspense-orchestral-adventure-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "1ac40d4222766b4ff9ff3a5e8bf79e1b547586a17064690e17d2ef4648598811"
+          },
+          "size": 1864295
+        },
+        {
+          "assetId": "album-1-default/ambient/combat/alex_besss-army-of-elves-534433.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "191cc98a5242cb04ec53acc22c1726b2958b4b9f6f44ddf0e280d69beced216e"
+          },
+          "size": 1554093
+        },
+        {
+          "assetId": "album-1-default/ambient/combat/battle-tactics-combat-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "698e6215e686813522a9c09d0f7b90ee060a1779adf73bfc0277637de9fcd7dc"
+          },
+          "size": 1187884
+        },
+        {
+          "assetId": "album-1-default/ambient/combat/dominique_garnier-battlefield-evolution-293929.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d97081d27ba70c5f1f6c9b8bbd01e60cb0b75caea9f779ba97e0cd5c364adfee"
+          },
+          "size": 1323720
+        },
+        {
+          "assetId": "album-1-default/ambient/combat/luis_humanoide-cinematic-dark-fantasy-491537.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0287066893c2194b1d47aa900a0b922faab3877a63ea0492aba6df13185b3a02"
+          },
+          "size": 1195821
+        },
+        {
+          "assetId": "album-1-default/ambient/combat/shadowsandechoes-anti-hero-epic-orchestra-trailer-316662.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e8b606783cd8b8fef948997e0c26e221f84f210bb2aaa10f7c1cfcf73e197594"
+          },
+          "size": 1882949
+        },
+        {
+          "assetId": "album-1-default/ambient/mission/sad-dramatic-recap-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0d2991ad492d61e4a3224b319e5349e60cc602f8d0c0e168101a911f1f68dbfa"
+          },
+          "size": 1729140
+        },
+        {
+          "assetId": "album-1-default/ambient/recap/emotional-atmospheric-recap-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e01af02b899f69828e0947bc30b65e7e8a07a85470357044a9c174a5e7dcd75d"
+          },
+          "size": 1315865
+        },
+        {
+          "assetId": "album-1-default/ambient/town/acoustic-guitar-recap-ambient-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "964a5b08e8bfb66c2449f495c33c4019bf2760cd75f2b29f44a12cb60dbed05c"
+          },
+          "size": 889110
+        },
+        {
+          "assetId": "album-1-default/ambient/town/backgroundmusicmaster-fantasy-craft-loop-431346.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c416b98ff30b41bfa7489ac4a9bf901e7086afe40e876c1c3375fd54970f6af9"
+          },
+          "size": 2073956
+        },
+        {
+          "assetId": "album-1-default/ambient/town/deuslower-fantasy-medieval-mystery-ambient-292418.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f94aaa7833d4c2cb1f5a5d7bad5efda518f9c89bbbe87afea5051593441d7f2b"
+          },
+          "size": 3201192
+        },
+        {
+          "assetId": "album-1-default/ambient/town/fidelfortune-celtic-party-happy-celtic-medieval-243758.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "b45e61668fb6c7ebeae7d21e6ea4915a5e45bde5b57b0fd29977b80c77d0f203"
+          },
+          "size": 1755053
+        },
+        {
+          "assetId": "album-1-default/ambient/town/kaazoom-by-the-boathouse-medieval-fantasy-music-500715.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "45209f8c5b07e736628251469430eeed663f9e4b69e4e944f01e7abf36a50cde"
+          },
+          "size": 4080996
+        },
+        {
+          "assetId": "album-1-default/sfx/fight/freesound_community-my-sword-hit-1wav-89026.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f3b08362b2b6ba3686292ec26738c8e79c1a870b381451efcf32a47de88c0c7c"
+          },
+          "size": 47520
+        },
+        {
+          "assetId": "album-1-default/sfx/fight/freesound_community-swordraw-89023.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "44907dc4c2af57a5fd7ac2b26358fc431cba1e632522197b15c29e00efe4efc5"
+          },
+          "size": 23520
+        },
+        {
+          "assetId": "album-1-default/sfx/fight/kave_msri-war-horn-sfx-319881.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "1ae267dbfb4e98c4dc5e8bb18d793d2dd69adda7616122efefae40c89a70efdc"
+          },
+          "size": 496535
+        },
+        {
+          "assetId": "album-1-default/sfx/hero/heartbeat-hero-wound-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8057b0d1ae1e441efa1d1ba9a161357ea4182827325c00be918915af55cd13ec"
+          },
+          "size": 146393
+        },
+        {
+          "assetId": "album-1-default/sfx/loot/683185_neartheatmoshphere_power-up.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "7b92882a24bf990f04f6679e2191f349c8ec5960c970f08c080eab91460126c5"
+          },
+          "size": 32850
+        },
+        {
+          "assetId": "album-1-default/sfx/loot/bag-of-coins-loot-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0c17053e8603b7a41f587d526c95e435bd4833ffe56aa0856e628ed26316df28"
+          },
+          "size": 10524
+        },
+        {
+          "assetId": "album-1-default/sfx/mission/554254_code_box_dapper-ducks-jingle.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f60fbaa1f814926a5833fefb7332f4fb2b93d1ff4af46ec8b277d5a403361ce6"
+          },
+          "size": 116235
+        },
+        {
+          "assetId": "album-1-default/sfx/town/424792_bolkmar_town-bells.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c3ae75482827bed9c27a6d5e3446a84cf57a41c4d5983b7a7e535def5b5c0b55"
+          },
+          "size": 186136
+        },
+        {
+          "assetId": "album-1-default/sfx/ui/diogodasilvasimoes-magical-notification-tone-soft-fantasy-digital-alert-438278.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4f4a0413a4d59abc7aeec7128cecb7c4e9112481f2484bb7c6cc1b6752850aa1"
+          },
+          "size": 61901
+        },
+        {
+          "assetId": "album-1-default/sfx/ui/kave_msri-crow-sfx-318131.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cd45182449c195d3f80b0e01681f18ba7b6cefe848fdada1e428bdbb8cbc5b15"
+          },
+          "size": 62318
+        },
+        {
+          "assetId": "album-1-default/sfx/ui/power-up-ui-confirm-needs-review-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "7b92882a24bf990f04f6679e2191f349c8ec5960c970f08c080eab91460126c5"
+          },
+          "size": 32850
+        },
+        {
+          "assetId": "album-1-default/sfx/ui/universfield-fantasy-250240.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "5455ccce4db2d9b7c34fad67236b41f1d4fb74e06cc9e5318bec9d0c08019e08"
+          },
+          "size": 50198
+        },
+        {
+          "assetId": "album-1-default/sfx/ui/universfield-magical-twinkle-242245.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "b0b54b0fa412bd52ec041bb82b950d87f991acf04b721961d80f4a30d2c4e431"
+          },
+          "size": 60229
+        },
+        {
+          "assetId": "album-1-default/stingers/fight/dark-loop-combat-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "832f69b0789c5cc95ac596173a5bdc3c457035c0205044743dfcbb02b8779fef"
+          },
+          "size": 236190
+        },
+        {
+          "assetId": "album-1-default/stingers/fight/openmindaudio-uniqe-epic-cinematic-a-kingdom-wakes-under-iron-stars-short-preview-492694.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "16fce95040fe1f169f844128604d87f5480cf8cb909eef2745d3ffbd68017e34"
+          },
+          "size": 553421
+        },
+        {
+          "assetId": "album-1-default/stingers/mission/mysterious-merchant-town-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0cab3e0a8f3553a7d9f39e3131ebc36c1d4c52981e785668094f938db4ebe9a1"
+          },
+          "size": 193140
+        },
+        {
+          "assetId": "album-1-default/stingers/mission/town-bells-mission-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4264e9b6f56d8c25692164acbc16ecdf725dc2d9bec452b776d37eb1ce3e1288"
+          },
+          "size": 190086
+        },
+        {
+          "assetId": "album-1-default/stingers/recap/fidelfortune-beauty-woman-voice-ancient-chant-mystic-205225.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "963ea196e22286dee83d670badb48e21b4a00ab1f22b3e01219ff39e8e717ecb"
+          },
+          "size": 288852
+        },
+        {
+          "assetId": "album-1-default/stingers/recap/mystery-loop-recap-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bdbd1133a56083e4088854fd2b7d577e87fa3bee5a3ad62db420d070c6999809"
+          },
+          "size": 237443
+        },
+        {
+          "assetId": "album-1-default/stingers/recap/sad-waiting-recap-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "144549ff802886172e31378e158df5be548711a24f8dc8ce41b7d98e756075b2"
+          },
+          "size": 236190
+        },
+        {
+          "assetId": "album-1-default/stingers/session/studiokolomna-sunrise-114326.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f66fd41392cdaa891792e19ff9a744731e0493b3f0b03b90ee49b120bd2757be"
+          },
+          "size": 264193
+        }
+      ]
+    },
+    {
+      "packageId": "sob-core-pack",
+      "version": "0.3.0",
+      "assetSchemaVersion": "1",
+      "artifactReference": "packages/sob-core-pack-0.3.0.zip",
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "9d7e09a44d9abb426470c744fda37bd15134a24358252ac77c4989f74cede730"
+      },
+      "size": 35975411,
+      "compatibility": {},
+      "contents": [
+        {
+          "assetId": "album-1-default/ambient/adventure/cornist-western-cinematic-487434.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8762f8caff60d69c0c22e4dee0c54c712939ea3a66783accfa91f4cb71eb33a5"
+          },
+          "size": 2870587
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/fighter_plane_engine-dead-heart-beating-western-150999.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "28355dff4314c9eb7022d0872bc5ab3b9cc6ed753761200e0ddff46e62b4ddba"
+          },
+          "size": 2203942
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/fronbondi_skegs-amb-gunsmoke-red-dead-redemption-style-soundscape-479173.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4dee46f91fa0fd14441c830369e4e6e4eb4cf170b275284520d6ea328ff4a6ab"
+          },
+          "size": 1268013
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/roybushband-dark-western-149423.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ac38a4ebd6fd9b0a64949a6b9198166c4f732be85ba8c6a74e0ac03a01100e38"
+          },
+          "size": 1910535
+        },
+        {
+          "assetId": "album-1-default/ambient/adventure/tunetank-western-cowboy-duel-background-350113.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "42bdf565c3a8dcd20911753c7667ccfbd948d9ec58ab756aef6cf2c9b95ee152"
+          },
+          "size": 2815417
+        },
+        {
+          "assetId": "album-1-default/ambient/exploration/exploration-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "36c9797209d809cfde5ef87fdaf3610408264eb826dde06fb8b6d24387498cc2"
+          },
+          "size": 5029293
+        },
+        {
+          "assetId": "album-1-default/ambient/exploration/exploration-02.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "6cb9cfed736ba43a865264f295fa6f6c4b7b3c95bfe7d2aaa09c98886dde20dd"
+          },
+          "size": 5200557
+        },
+        {
+          "assetId": "album-1-default/ambient/exploration/exploration-03.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "51d0b428efabf7b0507111ca85609db969abff776ee1ab0424fd43c585cbc6ea"
+          },
+          "size": 2465325
+        },
+        {
+          "assetId": "album-1-default/ambient/exploration/exploration-04.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bcf1fc6765c46a269a2a418a877a984b454bc2a8d134ef6bfacad63ed5d0611b"
+          },
+          "size": 4080813
+        },
+        {
+          "assetId": "album-1-default/ambient/town-default/town-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "95c475164c813a3c9ed62f849f09d7fa6d1f77ce1f67f5f2840f279585f40318"
+          },
+          "size": 1313324
+        },
+        {
+          "assetId": "album-1-default/ambient/town-fight/atlasaudio-western-519642.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a3e1e3c15c4bf6ce0f112dea9706d6fe6a1a206665fee6d5988619b1e29f83c8"
+          },
+          "size": 1729558
+        },
+        {
+          "assetId": "album-1-default/ambient/town-location/hitslab-western-cowboy-texas-music-460604.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d373341f127a03e92fa8ddac911008324eac4e0162d457c1fdeec21ea9ef1c75"
+          },
+          "size": 1541058
+        },
+        {
+          "assetId": "album-1-default/sfx/fight/402753__klavo1985__medieval-horn-by-kris-klavenes-wav.wav",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "2f99474a44906b6f7bcfb5ba2b675cfb5473178eb5def5e334261ffdc6f3e23b"
+          },
+          "size": 1587644
+        },
+        {
+          "assetId": "album-1-default/sfx/fight/714562__anderson91santos__war-horn-dark-cinematic-sound-effect.m4a",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "5b2f0d21f975e55262edd09a4086421fd3b02fe7b664d44e859c93ec29fa4688"
+          },
+          "size": 202174
+        },
+        {
+          "assetId": "album-1-default/sfx/lootFound/bag-of-coins-loot-01.wav",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "84730c0746ec23ccf9fe2a103abcb49a44a8335b8a1ee3ebd7d994a717618b42"
+          },
+          "size": 83944
+        },
+        {
+          "assetId": "album-1-default/sfx/ui/delon_boomkin-western-stand-off-474218.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bf8c34972bc7009835033e0332ea8262bf110d9bd8cb40f3400944e33e0ea45f"
+          },
+          "size": 251904
+        },
+        {
+          "assetId": "album-1-default/stingers/fight/creepy-knocking-mission-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "93c09e268c374e50c70d166563680e70ee70f03e4b0c3aa3ac2e0044b65d4094"
+          },
+          "size": 353283
+        },
+        {
+          "assetId": "album-1-default/stingers/fight/war-horn-dark-combat-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "95e55c2d1253a1f554485be1b2807bde72f40008ac2dea49dbc26304f595fed3"
+          },
+          "size": 200338
+        },
+        {
+          "assetId": "album-1-default/stingers/mission/highnoon-duel-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8e8adcffcfa42df6846a73a53282b55d15c46155829d740fed790fc6e8170754"
+          },
+          "size": 109548
+        },
+        {
+          "assetId": "album-1-default/stingers/mission/western-electric-guitar-combat-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f1e895aed149ac7807b40394ca468a9ea8de390b75a7628265d2c142b43a9502"
+          },
+          "size": 293450
+        },
+        {
+          "assetId": "album-1-default/stingers/recap/cfl_turningpages-nightgate-hearth-501763.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "667e42261fae9a28e7be8e2a73101813803c2e220cac3f299cff0925d2949c19"
+          },
+          "size": 405881
+        },
+        {
+          "assetId": "album-1-default/stingers/recap/gritty-guitar-slide-combat-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "b5098fc2ba9fd9eb75bb146a661fa47eb849c4b4c623e158d7f77d358ba566e2"
+          },
+          "size": 90968
+        },
+        {
+          "assetId": "album-1-default/stingers/session/delon_boomkin-western-sting-electric-guitar-474221.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "141af9de72e1d0155571a7662823d640dcbcd1fe90820dc9e1c73a5533259cd4"
+          },
+          "size": 218635
+        },
+        {
+          "assetId": "album-1-default/stingers/session/harmonica-trill-frontier-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "7bb620df729eaefb4fde955f29a3a5f69300a44e6ae8ef95fee5d6ea95f92ea8"
+          },
+          "size": 52589
+        },
+        {
+          "assetId": "album-1-default/stingers/session/wild-west-frontier-stinger-01.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "573ba92866910ad2232b6dfaf276174b23ef84a4a7887ef49e21db40a295d6f4"
+          },
+          "size": 208604
+        },
+        {
+          "assetId": "album-1-default/stingers/session/wild-west-frontier-stinger-02.mp3",
+          "assetType": "audio",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "537529bf5368437fce191ffb77966dd007311b9cc4e1c9d261a833695db358be"
+          },
+          "size": 326051
+        }
+      ]
+    }
+  ]
+}
