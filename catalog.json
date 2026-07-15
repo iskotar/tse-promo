@@ -3,14 +3,14 @@
   "packages": [
     {
       "packageId": "generic-core-pack",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "assetSchemaVersion": "1",
-      "artifactReference": "packages/generic-core-pack-0.3.0.zip",
+      "artifactReference": "packages/generic-core-pack-0.4.0.zip",
       "checksum": {
         "algorithm": "sha256",
-        "value": "32bcf36ea95df7df0769cb1890b1b1eaf4e992bea4b67010381a9f6fef8bc99d"
+        "value": "98f0ec9fd8572dd2a149d8a9e8a93378fce7a852b555e9da1c17c2e2975c03e0"
       },
-      "size": 47532062,
+      "size": 49215829,
       "compatibility": {},
       "contents": [
         {
@@ -327,6 +327,546 @@
             "value": "f66fd41392cdaa891792e19ff9a744731e0493b3f0b03b90ee49b120bd2757be"
           },
           "size": 264193
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-01.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "5a9c85e6f72d4cb50efbf4baac074a91ac63381586537bbd7dd2c34de5b7a426"
+          },
+          "size": 28918
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-02.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "3ecc6d7c8d69fa9fee170b5dd4cd7794f3c54d3d2135ef773f74719129ce30ce"
+          },
+          "size": 28849
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-03.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "812bf425efe0107320b99ecefaf8384884ca050ea3c9cf3219c5bd726a14b139"
+          },
+          "size": 27970
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-04.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "fbe980ea4ffd4892b5195a20b4a96b38c217380e1882d4b21fb34abb016a5c7b"
+          },
+          "size": 30216
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-05.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "677b71e09b3f7835a86b5185ec6637b8447d9e8379debc4ea9a94b0c8ec15799"
+          },
+          "size": 27768
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-06.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "45c884bd59a934e07556820f8fbd26deb6cdfd60833863a962bb51f54fa82ce3"
+          },
+          "size": 27691
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-07.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "426c30f8e1ee597c53df9ceade23e68406a7c833f463d510c3706c667be61681"
+          },
+          "size": 30092
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-08.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "57f07caaf5d12687ef67942db5435a319bf8caebf404707034b226fa45636283"
+          },
+          "size": 28735
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-09.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e69b3eeaeb0f55efa3ebf172c796c47070dfe709a638b3521560867201a29a2b"
+          },
+          "size": 28389
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-10.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "265d451a69e319e350694c4e3ccd95ee9721bd20d0d62f42d7d7d50435266eec"
+          },
+          "size": 28980
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-11.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "59c82756708afe3e53e24e1c66c21d4f2c62fb07703ea6af842148b5eeb5243a"
+          },
+          "size": 27049
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-12.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "7e6b55eb50a1542199cade132789939bf80d88580e1de47ceb6e14b3b56cc727"
+          },
+          "size": 29420
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-13.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4144d1562ea45ffdf1fe04eb82fa7cb4ea3ced2161eb26bfb188993c192a1502"
+          },
+          "size": 27955
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-14.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ceb05539d6e0861f526b805558b44784f4c5294ca4e9224df7e9c77a14f3e5c0"
+          },
+          "size": 30025
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-15.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d493b8ff4f3168c2bd2669a7f946958023a624da3dc3eac758a85cde63b5805a"
+          },
+          "size": 30456
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-16.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "635d7fbafe7ce4d2f43dc9057737f2f6fb4970e9ee073cf812fb374cdceef0c5"
+          },
+          "size": 30066
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-17.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "1c5f5528a927d02e5f63f6fe31141c04d3f65ede462d6d02b8be1266fef29c6b"
+          },
+          "size": 29252
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-18.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "18d5969ed299afeb87b4a4368bc0269284071944c0a54a2f6c4c3c8892efd3ac"
+          },
+          "size": 28869
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-19.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "2a146bfa3b4ed9c2356b593c133dc0b0afb172a2bc9eb4a64c9017023c6f46ec"
+          },
+          "size": 25770
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-20.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "475d68ae52191339edad3513c51a5b46cbe7d7d65f30ea03804f1cd600226f76"
+          },
+          "size": 29252
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-21.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ab97fb4ae23551ee024a7214a31ac7205722ee51beccb7fd803c182fc966eb1e"
+          },
+          "size": 28219
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-22.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bf62c8356997c4ecbf11261002fd6d2f6c6df0e1b251a1f515c9b9d2162f0a43"
+          },
+          "size": 28379
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-23.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cd90d9a629b76df273251fa8d448458fa5f7c7f38f6731a5c6f4c6f4ccbfbc9c"
+          },
+          "size": 26822
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-24.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "96bdc4810ee0fc1c47a0d62b76a3db635e330d98d54411ada3d58dbfd9c89a01"
+          },
+          "size": 25709
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-25.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "5f8d155dad2cd28b4f4118eabab208f4e35422c193623f80c011cfce6ef58186"
+          },
+          "size": 25082
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-26.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d4b2f4f1e734af12339b8afa76d11fb50e077adf6fccc88f3cd23aae2847b922"
+          },
+          "size": 25600
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-27.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "681abddcfe3c28c49869fb6f044aef4fff036aaf93b9e81de7293ceb0e105363"
+          },
+          "size": 27722
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-28.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "9735a06e2f238bacf37c52544bc1ea7a9705a7afa4693af8d470bdb8ff80e2ca"
+          },
+          "size": 26806
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-29.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e0d41d7367142c88582a535c4d6b075dfcb07aa0703e3b3b75152df378145e14"
+          },
+          "size": 26894
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-30.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cdc633a3dd9a16e2acef17e934da1d91bb56ccd4d0337f1a86d4f77c5e6eba4a"
+          },
+          "size": 27761
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-31.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "14ed4ec1bb1a8c72bae4bf0ebad56d8da69259a2b03520d48f74849655730b57"
+          },
+          "size": 29164
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-32.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d6e5916ccf88b46e655f1b5f6fd5c0fa0eb97186ccc070745f4f0fe978c4de2c"
+          },
+          "size": 28075
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-33.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "28b8d4c6e20325edf3335d9bc6286eb58dccab901a8df6b7a8894cd7f7e1c4f3"
+          },
+          "size": 27365
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-34.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d6735552df70df7923b72a23e04461cf32ea2ec403908b6641e30889912a422c"
+          },
+          "size": 27205
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-35.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bf45019e62811ce80b271954d7c22d75a669f688243bed0e426309617c193da6"
+          },
+          "size": 29289
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-36.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "47426c414a7fdb7647069d73d52328a671e94a59cfbdb016cae4c552a86f54b7"
+          },
+          "size": 29629
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-37.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e719647fa9a5cabae6de844043767fb9424bd03b6712817bc5e87fdaec320f58"
+          },
+          "size": 27591
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-38.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0bd0891287a8bc2de0470a93e9d058aa4316bc2f77f8c766d218f0fd5279bd0b"
+          },
+          "size": 27735
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-39.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "96ab29c70b69cee4d77a479f426be39b5d852993698facce9379d6404f3a4207"
+          },
+          "size": 27535
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-40.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "889247851246e8053ea0737082f79f42aedfcd0585a0f02ced951693a93413bb"
+          },
+          "size": 25783
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-41.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "fc60f2c43d21a354f9ffa6d561a0f321e417cdd45d6f2581bb38fcee7f0a696f"
+          },
+          "size": 27561
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-42.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ca15a3785856f1b8b9daee2cec490f1a1bf3f5fbf7d8a1c847aa3db74a840f50"
+          },
+          "size": 28290
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-43.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "2b088cdd2d32c51134d3e7331f067cefcddce241b392ee81c3cf34571425bca6"
+          },
+          "size": 27039
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-44.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8422528b36d34090d8038e71eb0d9c618ea5ee4094e484057ea206e21ff1ba80"
+          },
+          "size": 29200
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-45.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "5bbf8d8f2d65be57a1ef850734293850d85675b94cb828725645991144a371cb"
+          },
+          "size": 24768
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-46.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f49436528c2dcdb11b75e69be4a3673babf362f7016bb8d7fa7cc5e51ddb24ea"
+          },
+          "size": 27997
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-47.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "78407f86f8b68d9fe0124e3cad3cfb06945b228db79ab8a333c7746c6e6cba98"
+          },
+          "size": 27736
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-48.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "6d4fe07383d76e30d1ec2c6fa6771de9bebada0abcb08313c24f2b620b2c9e02"
+          },
+          "size": 26260
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-49.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "be484469a5dbddad9c54d586d82178d6a9cb1454ebade0be14ec8ebc6ece0854"
+          },
+          "size": 29311
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-50.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cb4abeb0422dba663c0af774e64045d890a90fc0e6e9a89fc10996351297204a"
+          },
+          "size": 29624
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-51.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "110a1d446870be45ee3b4a824015afc849d4c5938e5f34fabec15fa9647ab158"
+          },
+          "size": 25417
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-52.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "edf8c09e009b5540e45e83726185a71a724a3ea4a8d3ea93dc2d02c939d390a3"
+          },
+          "size": 28492
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-53.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c76b911a6fee46538a0c604bc22fe97f7261d3c27ffa16154456af378626d6a8"
+          },
+          "size": 27691
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-54.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "1b41b9d3bd128b9b9e7d4547ae068497a2b523dc6e939c068d3410a612846d1a"
+          },
+          "size": 28687
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-55.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "37b6fb176344cd449d547681acede608be825fbf45eeb2fb570bf06aaf464133"
+          },
+          "size": 28529
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-56.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a1d26bd4e1a63bbf45159fb624406e6515120575751d58731760e759952f25aa"
+          },
+          "size": 28649
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-57.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "72b7c8d609edea64e78a06a0d1d44193906bba2d3bbd2b4010bbc2dc903ffae7"
+          },
+          "size": 27314
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-58.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cd2ddaf5e247dd61b1150a89974d1ae03f1eaed280bb7a0e33491ce036172eda"
+          },
+          "size": 27979
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-59.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "13e5352fb8a1e24e941527390ebaf1d60f9306f9f3f5b74e1e3dea6b532178d5"
+          },
+          "size": 27021
+        },
+        {
+          "assetId": "avatars/fantasy/fantasy-60.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "688f346f7a932c8bc89edaf46d84f2a092971159edc8cd07aa310d659ed7b0d9"
+          },
+          "size": 27684
         }
       ],
       "audioPools": [
@@ -509,14 +1049,14 @@
     },
     {
       "packageId": "sob-core-pack",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "assetSchemaVersion": "1",
-      "artifactReference": "packages/sob-core-pack-0.4.0.zip",
+      "artifactReference": "packages/sob-core-pack-0.5.0.zip",
       "checksum": {
         "algorithm": "sha256",
-        "value": "626363a0f5cf1484c2103c4633582da4443f8f5aa647bda7d2d6f03c1e53a8ba"
+        "value": "8c858c686d843fac7ad4775b372f1209044cd9b8b80cbbe1feb2ff084ad0eace"
       },
-      "size": 35322604,
+      "size": 37005345,
       "compatibility": {},
       "contents": [
         {
@@ -716,6 +1256,411 @@
             "value": "573ba92866910ad2232b6dfaf276174b23ef84a4a7887ef49e21db40a295d6f4"
           },
           "size": 208604
+        },
+        {
+          "assetId": "avatars/western/western-001.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0406dc4402d42634b825b7770b2f3933dde243ebb677841d9c1c5815b9b7326e"
+          },
+          "size": 25133
+        },
+        {
+          "assetId": "avatars/western/western-002.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d2d8d01a0342832fc68865c621ee90818074f4c486fded394d6c3c5cff7767c4"
+          },
+          "size": 23793
+        },
+        {
+          "assetId": "avatars/western/western-003.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "885b69fdc3c2b63bfa050187caaeadb772b976dc2602f4fe7b6798bd3446042d"
+          },
+          "size": 26763
+        },
+        {
+          "assetId": "avatars/western/western-004.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "9037ebf76f703aca7ae3a6a00cadb0703787c73797c7253f98aa5fa4efb7dcba"
+          },
+          "size": 26917
+        },
+        {
+          "assetId": "avatars/western/western-005.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c0ad26eacb4d2f874bb66db6fbf7bad2651d07171cb0065b42b747a2bebda6e9"
+          },
+          "size": 25404
+        },
+        {
+          "assetId": "avatars/western/western-006.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "493df8c1ba4bb29287e5ec7ecfa90f21625d0a5af46884ec92bcea9efe3e40f4"
+          },
+          "size": 24895
+        },
+        {
+          "assetId": "avatars/western/western-007.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c49ece5ee90a74ac9babd6e53c2797a3c83813c3a29d42940da784946a395ac2"
+          },
+          "size": 26817
+        },
+        {
+          "assetId": "avatars/western/western-008.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8266681aa33b37739e1d8e03488c45a83217b4d6317eb4ba45bf3f368a0cfc2b"
+          },
+          "size": 26638
+        },
+        {
+          "assetId": "avatars/western/western-009.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "eeaa2d08989ee1165cec1d14c26ebc3881baff1e2b078990ee9d5b6ca644063d"
+          },
+          "size": 25955
+        },
+        {
+          "assetId": "avatars/western/western-010.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "88077d38dfd3a3f584b4183e01b2a2206c39e377aa8f2e9f87fba89c3f7875f6"
+          },
+          "size": 23780
+        },
+        {
+          "assetId": "avatars/western/western-011.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "7489891d5d5edba19ab93d4e7c732b759034861e575b5a815ae5b3a1dfbd20d1"
+          },
+          "size": 24019
+        },
+        {
+          "assetId": "avatars/western/western-012.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "2415da6012db346be9eb558d65b5ec52c6eaa3021e741fa3b467b698e327939e"
+          },
+          "size": 25220
+        },
+        {
+          "assetId": "avatars/western/western-013.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d69893d7331946d03d97dd1ccad603842c0ad72759fae6164398fd2761384652"
+          },
+          "size": 25132
+        },
+        {
+          "assetId": "avatars/western/western-014.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e1fc0fd04dd6cd6675eb23f57d175dc427f03e10415d466d3e989a0dac37133f"
+          },
+          "size": 26233
+        },
+        {
+          "assetId": "avatars/western/western-015.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "af409371eba64b6b6ea6cfb42219ee2ae05f3fafb67888906d1d313619df23da"
+          },
+          "size": 29433
+        },
+        {
+          "assetId": "avatars/western/western-016.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "aabd436776f6beb67e7535ab83fae952a1a7e9690db42396345537130b7861d6"
+          },
+          "size": 28435
+        },
+        {
+          "assetId": "avatars/western/western-017.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "32aab6da6c12354146105e30f56c65387da0a981ef17331fe0e1da145f82d835"
+          },
+          "size": 27914
+        },
+        {
+          "assetId": "avatars/western/western-018.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "fb32ca316d937d30e51dbbcb381671e7817981f22159c135623297e43219ac3b"
+          },
+          "size": 29034
+        },
+        {
+          "assetId": "avatars/western/western-019.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f834e20b21ca6bdd2fe406dd7e983a867eb617a1e7df5f945576c21ce79349fb"
+          },
+          "size": 29121
+        },
+        {
+          "assetId": "avatars/western/western-020.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "6bcc94e40d0592c631198280f48defa8bd61e238edbe1e197e4f8b51a4bb2ebc"
+          },
+          "size": 25809
+        },
+        {
+          "assetId": "avatars/western/western-021.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "60809a836c1c163c860535c5f80b04b763c740f6c8a81a793d02d410cc9948cf"
+          },
+          "size": 27312
+        },
+        {
+          "assetId": "avatars/western/western-022.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4a1265e702fb15904cb18db1b1e5292b7ad61011408622cdff4376e788cd5847"
+          },
+          "size": 26927
+        },
+        {
+          "assetId": "avatars/western/western-026.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cf187bd939ee0a5978d573636ac4d609602f3e5712a3b30c1984a15fcdc5eb36"
+          },
+          "size": 27403
+        },
+        {
+          "assetId": "avatars/western/western-027.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "835dd841613d1fbc53ed8f9b8bab6408f73e5c5f5a135d3390dd6b4bbae82211"
+          },
+          "size": 27614
+        },
+        {
+          "assetId": "avatars/western/western-028.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d93b7fc24eab9c83f75e22e1a9339daa46914275674acb661417cee3e53d0f5e"
+          },
+          "size": 25831
+        },
+        {
+          "assetId": "avatars/western/western-029.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d6a6f5b6aa437f755a6f9b5841956f4fe05b2dba750f46ee7e10309d02602f43"
+          },
+          "size": 27395
+        },
+        {
+          "assetId": "avatars/western/western-036.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0ba118576bb924d87a3724f27acfc4ee2ae1023e03e19823ad729fb4cefe0239"
+          },
+          "size": 21894
+        },
+        {
+          "assetId": "avatars/western/western-037.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "055f0726407d3010586eeae828c4fdd9fccfd6bbf25510873fe1294a17cacfeb"
+          },
+          "size": 21058
+        },
+        {
+          "assetId": "avatars/western/western-041.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ac59d7ee6126a453bef9498be37db3a672ee407c7b9fa0eb157eb0c7188f222c"
+          },
+          "size": 25645
+        },
+        {
+          "assetId": "avatars/western/western-042.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "6ab2cdf6c655877301f9de2f7f1a167dadde67ca1c7fda88f2a9e2c8fa2f2a19"
+          },
+          "size": 24957
+        },
+        {
+          "assetId": "avatars/western/western-043.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "3a83dc501e0ab05cc3f518661f456aedd312f691b210b8fb2c5efd1ef4a1a5a0"
+          },
+          "size": 24563
+        },
+        {
+          "assetId": "avatars/western/western-044.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "53f73b0d659ac5b5d4ef137c1497e0ce30f6e922ee30d88f78769665be33ad71"
+          },
+          "size": 25121
+        },
+        {
+          "assetId": "avatars/western/western-045.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e0ebf2c1ccfa0d824b0329299313e7856b828353bcea9a206c672d442d7c5e67"
+          },
+          "size": 23397
+        },
+        {
+          "assetId": "avatars/western/western-046.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f6cc9c433c8097bc25d294aa1dd79f09c1fd27f7489850ca1dfb8657f2596e09"
+          },
+          "size": 25662
+        },
+        {
+          "assetId": "avatars/western/western-047.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "392b17ab3092b7452c9eeee397d439f6990927ced7c6fc198c8617b423b9fbbf"
+          },
+          "size": 27950
+        },
+        {
+          "assetId": "avatars/western/western-048.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "55327553f4965bba8b2198b14bffa97836c2de7bb7c280112e2c4f405e59c6db"
+          },
+          "size": 30183
+        },
+        {
+          "assetId": "avatars/western/western-049.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c719849572a2a9a57139e2a03e8d8144e3e7aef992528e6d8e2f71b9078bf200"
+          },
+          "size": 29222
+        },
+        {
+          "assetId": "avatars/western/western-050.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a75158f81aef981914bc46ad972a14e3a32005bd64b9f7f565c7b7f3c7f7dfad"
+          },
+          "size": 30094
+        },
+        {
+          "assetId": "avatars/western/western-051.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "319e46710f12ded7acca23096241d5c783c1065dd8325296652e702f552fb744"
+          },
+          "size": 108630
+        },
+        {
+          "assetId": "avatars/western/western-052.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "161b3b4d4421135681fc9bbd8be23727461321a673c3667e5ba388129abf0b55"
+          },
+          "size": 94642
+        },
+        {
+          "assetId": "avatars/western/western-053.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a3a3176e5330225625361cc533621f5c0df24ccc18a2f4f8266e5e376d1ac944"
+          },
+          "size": 95726
+        },
+        {
+          "assetId": "avatars/western/western-054.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f1dfb2217aee737fb14c53b0aea5c86765e2958ffd671da74e8c2027218dc18b"
+          },
+          "size": 99857
+        },
+        {
+          "assetId": "avatars/western/western-055.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8f556304236083bb615a8487fe41dfda7eea7560bc52ec0812099b86d7a9bda8"
+          },
+          "size": 96885
+        },
+        {
+          "assetId": "avatars/western/western-056.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e045f4c754f89f1d746c2f83faaa5e6edfe0cc2b4ecb2383a90324f40e6c47b5"
+          },
+          "size": 92129
+        },
+        {
+          "assetId": "avatars/western/western-057.png",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "788be47f90c3be990f840efb84f8406f187a20dc0699d7575f438556ef19bc16"
+          },
+          "size": 95862
         }
       ],
       "audioPools": [
