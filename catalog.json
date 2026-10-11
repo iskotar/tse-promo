@@ -3,9 +3,9 @@
   "packages": [
     {
       "packageId": "generic-core-pack",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "assetSchemaVersion": "1",
-      "artifactReference": "packages/generic-core-pack-0.5.0.zip",
+      "artifactReference": "packages/generic-core-pack-0.5.1.zip",
       "checksum": {
         "algorithm": "sha256",
         "value": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
@@ -16,14 +16,14 @@
     },
     {
       "packageId": "generic-core-pack-assets",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "assetSchemaVersion": "1",
-      "artifactReference": "packages/generic-core-pack-assets-0.5.0.zip",
+      "artifactReference": "packages/generic-core-pack-assets-0.5.1.zip",
       "checksum": {
         "algorithm": "sha256",
-        "value": "2372331c18af962cdf710261c586825766ec59772e416606c16b55d0af5429ae"
+        "value": "633a47d0841f8590f5e245b826a0f821d1e37a95b1ae3aca0101d7c086b75be7"
       },
-      "size": 49204750,
+      "size": 48772480,
       "compatibility": {},
       "contents": [
         {
@@ -261,15 +261,6 @@
           "size": 47520
         },
         {
-          "assetId": "42669cf89cc5d0da.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "44907dc4c2af57a5fd7ac2b26358fc431cba1e632522197b15c29e00efe4efc5"
-          },
-          "size": 23520
-        },
-        {
           "assetId": "67382a0fbce59633.mp3",
           "assetType": "audio",
           "checksum": {
@@ -288,15 +279,6 @@
           "size": 10031
         },
         {
-          "assetId": "ca1ce975a3f61aa4.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "1ae267dbfb4e98c4dc5e8bb18d793d2dd69adda7616122efefae40c89a70efdc"
-          },
-          "size": 496535
-        },
-        {
           "assetId": "e77a5325cb4d99ff.mp3",
           "assetType": "audio",
           "checksum": {
@@ -306,22 +288,13 @@
           "size": 32182
         },
         {
-          "assetId": "5afe25431d4dfe9d.mp3",
+          "assetId": "d83439ca58cc05f1.mp3",
           "assetType": "audio",
           "checksum": {
             "algorithm": "sha256",
-            "value": "25982028b23b377c9b60e52e2dd6b3f8027db4a09f13025799de1a16bb211741"
+            "value": "7834fa47e5a686fe6d3eeae3e2c4970aa5fa3f5ccb7810f9cd9cae150d0c1bc9"
           },
-          "size": 115774
-        },
-        {
-          "assetId": "15b7774efbd7660d.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "6e39505fd3468f4ad92502de9c1c596e1b883220f55f226630040af4b321c295"
-          },
-          "size": 235729
+          "size": 263732
         },
         {
           "assetId": "5b9a73d8d863090c.mp3",
@@ -333,13 +306,13 @@
           "size": 288391
         },
         {
-          "assetId": "d83439ca58cc05f1.mp3",
+          "assetId": "835524b4eb4705d8.mp3",
           "assetType": "audio",
           "checksum": {
             "algorithm": "sha256",
-            "value": "7834fa47e5a686fe6d3eeae3e2c4970aa5fa3f5ccb7810f9cd9cae150d0c1bc9"
+            "value": "e367c9be9ad26d7c202575df5c35b3ed6574575e08737f531a4b370e495e5ff1"
           },
-          "size": 263732
+          "size": 141270
         },
         {
           "assetId": "avatars/fantasy/fantasy-01.png",
@@ -1015,11 +988,6 @@
         },
         {
           "channel": "sfx",
-          "poolKey": "fightWon",
-          "assetId": "42669cf89cc5d0da.mp3"
-        },
-        {
-          "channel": "sfx",
           "poolKey": "heroHarm",
           "assetId": "67382a0fbce59633.mp3"
         },
@@ -1030,33 +998,23 @@
         },
         {
           "channel": "sfx",
-          "poolKey": "missionFailed",
-          "assetId": "ca1ce975a3f61aa4.mp3"
-        },
-        {
-          "channel": "sfx",
           "poolKey": "rest",
           "assetId": "e77a5325cb4d99ff.mp3"
-        },
-        {
-          "channel": "sfx",
-          "poolKey": "townEvent",
-          "assetId": "5afe25431d4dfe9d.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "fightVictory",
-          "assetId": "15b7774efbd7660d.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "missionFailed",
-          "assetId": "5b9a73d8d863090c.mp3"
         },
         {
           "channel": "stingers",
           "poolKey": "sessionEnd",
           "assetId": "d83439ca58cc05f1.mp3"
+        },
+        {
+          "channel": "stingers",
+          "poolKey": "sessionEndMissionFailed",
+          "assetId": "5b9a73d8d863090c.mp3"
+        },
+        {
+          "channel": "stingers",
+          "poolKey": "sessionEndMissionSuccess",
+          "assetId": "835524b4eb4705d8.mp3"
         }
       ],
       "avatars": [
@@ -1121,18 +1079,18 @@
         "avatars/fantasy/fantasy-59.png",
         "avatars/fantasy/fantasy-60.png"
       ],
-      "releaseNotes": "Ambience and combat audio for any tabletop system — exploration, town, and combat themes, mission and fight-outcome stingers, plus a set of fantasy-styled hero avatars."
+      "releaseNotes": "Ambience and combat audio for any tabletop system — exploration, town, and combat themes, session-end stingers, plus a set of fantasy-styled hero avatars."
     },
     {
       "packageId": "sob-core-pack",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "assetSchemaVersion": "1",
-      "artifactReference": "packages/sob-core-pack-0.5.0.zip",
+      "artifactReference": "packages/sob-core-pack-0.5.1.zip",
       "checksum": {
         "algorithm": "sha256",
-        "value": "d97c4f5289b53ac11824e577f22d5fafb9bc6eedec8c5babfba590b6e64840a6"
+        "value": "98ff47b6cc76635c86ae84f9d8c1a28f879de5c11b6074bc6f49afc99bfd2059"
       },
-      "size": 36704536,
+      "size": 34551322,
       "compatibility": {},
       "contents": [
         {
@@ -1253,40 +1211,13 @@
           "size": 78210
         },
         {
-          "assetId": "ed382a2d14874928.mp3",
+          "assetId": "d7a19bfc5eb9e050.mp3",
           "assetType": "audio",
           "checksum": {
             "algorithm": "sha256",
-            "value": "718457614d7937cfddf603eca0918b19413a45de416c53c8b3c5cf6f7ad8f588"
+            "value": "8230eb05baa199a8b241f5cdb961ae5df5bd20e2daabf8c0a7367675cb7839e6"
           },
-          "size": 199784
-        },
-        {
-          "assetId": "2dc211a79df4032d.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "ec106d72dca02f90bfe8470b827daf26799e4249e2f8b306b6397c0fb70be852"
-          },
-          "size": 352757
-        },
-        {
-          "assetId": "0f035a13dba90a85.wav",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "2f99474a44906b6f7bcfb5ba2b675cfb5473178eb5def5e334261ffdc6f3e23b"
-          },
-          "size": 1587644
-        },
-        {
-          "assetId": "b8011892506a4a10.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "7cb2afd56c451e0de073f34907d0760637b88d82caf083ed1c0fd418f4cba0ea"
-          },
-          "size": 292989
+          "size": 218174
         },
         {
           "assetId": "a7d1bc950bb54804.mp3",
@@ -1298,31 +1229,13 @@
           "size": 51826
         },
         {
-          "assetId": "7a8c3c325476e3f1.mp3",
+          "assetId": "b8011892506a4a10.mp3",
           "assetType": "audio",
           "checksum": {
             "algorithm": "sha256",
-            "value": "86f77127592d1c9021aab4ff763bb6a4e2748aadc429ea821db113636e779de9"
+            "value": "7cb2afd56c451e0de073f34907d0760637b88d82caf083ed1c0fd418f4cba0ea"
           },
-          "size": 405420
-        },
-        {
-          "assetId": "d7a19bfc5eb9e050.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "8230eb05baa199a8b241f5cdb961ae5df5bd20e2daabf8c0a7367675cb7839e6"
-          },
-          "size": 218174
-        },
-        {
-          "assetId": "094d277a8098a053.mp3",
-          "assetType": "audio",
-          "checksum": {
-            "algorithm": "sha256",
-            "value": "d87d7db5322344b248912e68f81ec29a84c4f1453c566cac741c3c097786079f"
-          },
-          "size": 208143
+          "size": 292989
         },
         {
           "assetId": "avatars/western/western-001.png",
@@ -1798,48 +1711,18 @@
         },
         {
           "channel": "stingers",
-          "poolKey": "bossAppears",
-          "assetId": "ed382a2d14874928.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "bossDefeated",
-          "assetId": "2dc211a79df4032d.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "fightStart",
-          "assetId": "0f035a13dba90a85.wav"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "fightVictory",
-          "assetId": "b8011892506a4a10.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "missionFailed",
-          "assetId": "a7d1bc950bb54804.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "missionSuccess",
-          "assetId": "b8011892506a4a10.mp3"
-        },
-        {
-          "channel": "stingers",
-          "poolKey": "recapOpen",
-          "assetId": "7a8c3c325476e3f1.mp3"
-        },
-        {
-          "channel": "stingers",
           "poolKey": "sessionEnd",
           "assetId": "d7a19bfc5eb9e050.mp3"
         },
         {
           "channel": "stingers",
-          "poolKey": "sessionStart",
-          "assetId": "094d277a8098a053.mp3"
+          "poolKey": "sessionEndMissionFailed",
+          "assetId": "a7d1bc950bb54804.mp3"
+        },
+        {
+          "channel": "stingers",
+          "poolKey": "sessionEndMissionSuccess",
+          "assetId": "b8011892506a4a10.mp3"
         }
       ],
       "avatars": [
@@ -1889,7 +1772,7 @@
         "avatars/western/western-056.png",
         "avatars/western/western-057.png"
       ],
-      "releaseNotes": "Full Old West ambience and combat audio for Shadows of Brimstone — exploration, town, boss, and epic-combat themes, mission and fight-outcome stingers, plus a set of Western hero avatars."
+      "releaseNotes": "Full Old West ambience and combat audio for Shadows of Brimstone — exploration, town, boss, and epic-combat themes, session-end stingers, plus a set of Western hero avatars."
     }
   ]
 }
