@@ -1083,14 +1083,14 @@
     },
     {
       "packageId": "sob-core-pack",
-      "version": "0.5.1",
+      "version": "0.6.0",
       "assetSchemaVersion": "1",
-      "artifactReference": "packages/sob-core-pack-0.5.1.zip",
+      "artifactReference": "packages/sob-core-pack-0.6.0.zip",
       "checksum": {
         "algorithm": "sha256",
-        "value": "98ff47b6cc76635c86ae84f9d8c1a28f879de5c11b6074bc6f49afc99bfd2059"
+        "value": "309b7def3b06545b73406e710046f276d89aab1e5ee57de141c9933e6c8bc135"
       },
-      "size": 34551322,
+      "size": 35091902,
       "compatibility": {},
       "contents": [
         {
@@ -1641,6 +1641,258 @@
             "value": "788be47f90c3be990f840efb84f8406f187a20dc0699d7575f438556ef19bc16"
           },
           "size": 95862
+        },
+        {
+          "assetId": "skins/brimstone/background.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "6f4c96eea980c3040e1422b51f8f8d1935486a6bf4e53d49ebfed1d584b6e4ba"
+          },
+          "size": 186376
+        },
+        {
+          "assetId": "skins/brimstone/center-riveted-shield.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4d5fd886b984b8e9fc81bf67b76907c1153b3f177ef66a2dfe10d1f7462462ad"
+          },
+          "size": 89854
+        },
+        {
+          "assetId": "skins/brimstone/drum.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cc72562c5176e7f03a6ed4b99a2253f044380463d9ddc71885c9fce029e3c222"
+          },
+          "size": 66392
+        },
+        {
+          "assetId": "skins/brimstone/fonts/rye.woff2",
+          "assetType": "data",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "213b4683d65efe68c64d461fb8874d349c725282d840503b14f93642d826ef92"
+          },
+          "size": 22880
+        },
+        {
+          "assetId": "skins/brimstone/icons/clue.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "001e54abd00823be42de26c9e0eaa8ff488c4bbd4ae658af7c4311852c75a8fe"
+          },
+          "size": 5546
+        },
+        {
+          "assetId": "skins/brimstone/icons/darkness.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "267f459c398c71d09ab87af83559d02d09c4190e40bd43c48274a9b60d960495"
+          },
+          "size": 8552
+        },
+        {
+          "assetId": "skins/brimstone/icons/enemy-down.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a65c298ed18c2019e736cec21290cc87af892e5b1f0c9c467fd076abbafebed8"
+          },
+          "size": 5972
+        },
+        {
+          "assetId": "skins/brimstone/icons/explore.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f429e90e6f368bb180b66bc63058913e4ccdd13d036ca1b031c916023aa22664"
+          },
+          "size": 5940
+        },
+        {
+          "assetId": "skins/brimstone/icons/fight-resume.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "cb9a757e98a228433057c06a947f35056e7b1591bbb137f1c67d0d9a01c3a36e"
+          },
+          "size": 7706
+        },
+        {
+          "assetId": "skins/brimstone/icons/flag-compass.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "54150eab0144107f9917974561f6d9f0eeda9f05e033118f29ffb2968c653f16"
+          },
+          "size": 7632
+        },
+        {
+          "assetId": "skins/brimstone/icons/flag-cross.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "f12fa6cfe87f6976542a1c370d641369f66205d835c537abe7ef4531805900cf"
+          },
+          "size": 7384
+        },
+        {
+          "assetId": "skins/brimstone/icons/flag-return.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d37061076fabfeda25403854627d97697f4047212a9e2c6d4cd698ed61ef0953"
+          },
+          "size": 8646
+        },
+        {
+          "assetId": "skins/brimstone/icons/flag-victory.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "4811338c2b63ce5d393ff989bdbbbebfbc7f1b19e2936a0ffa683c1210b3823b"
+          },
+          "size": 5362
+        },
+        {
+          "assetId": "skins/brimstone/icons/growing-dread.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c34088beef04cc6f8728a5220572db203f23f95cf507da175d46a2f1eae7707d"
+          },
+          "size": 6590
+        },
+        {
+          "assetId": "skins/brimstone/icons/hero-harm.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "321db7eb54e1ade28512473ad03ff5caf2c11c9229c20014e5fb7439e3233890"
+          },
+          "size": 6156
+        },
+        {
+          "assetId": "skins/brimstone/icons/hero-loss.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bdb79784c77810b07445163c10c6c8b9d6d79f3d227274f5aefff4e3af1d079a"
+          },
+          "size": 10254
+        },
+        {
+          "assetId": "skins/brimstone/icons/hero-recovery.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "7d52b518639b45cfc1b7f47da03587f86b92784e2f7bb88652898bd9b6928949"
+          },
+          "size": 8648
+        },
+        {
+          "assetId": "skins/brimstone/icons/lantern-dark.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a71da63720477c72c0cf0ea717c6cb825a840d4b39bc3b733eba35e1bc633144"
+          },
+          "size": 5928
+        },
+        {
+          "assetId": "skins/brimstone/icons/lantern-lit.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "6f01792ccf662af9a0c6375adfccea1eb868988b2bd9f0fadc47ba156c633706"
+          },
+          "size": 6424
+        },
+        {
+          "assetId": "skins/brimstone/icons/major-acquisition.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "5461e0f23bf7c9e50689b27572fc241d6132bf5f48abc15ab17064dd9c4c5d99"
+          },
+          "size": 6244
+        },
+        {
+          "assetId": "skins/brimstone/icons/note.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "a9b9ae104850c6da626c5e6bb7fa8563aa72c84c451909f10f2b0e94c15a1f00"
+          },
+          "size": 6950
+        },
+        {
+          "assetId": "skins/brimstone/icons/portal.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "ff25dfc18fb9238a2e282d4ea1402ca3a1dcd00ebc1db6e7d1f113efc78f9551"
+          },
+          "size": 9384
+        },
+        {
+          "assetId": "skins/brimstone/icons/scavenge.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "8a286ce37015252dbf71e39a4a8f602be108dc6ecb60658730f892f12f56fc6f"
+          },
+          "size": 6006
+        },
+        {
+          "assetId": "skins/brimstone/icons/shield-swords.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "0967f1318e17b13c0f2543a8fcbd33e77d415de226c0b56584c6aa30d89bf5b6"
+          },
+          "size": 8856
+        },
+        {
+          "assetId": "skins/brimstone/icons/threat.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "d98e51a58a31ac632cf7a0a2ff640ace93a9eafdbe8018f7287b4f9bd818525c"
+          },
+          "size": 8120
+        },
+        {
+          "assetId": "skins/brimstone/icons/town-event.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "c27263f04b6b6388f3f6f9c8e5aeecd6f3c822faaac8834842871a783673f46d"
+          },
+          "size": 6470
+        },
+        {
+          "assetId": "skins/brimstone/icons/travel-hazard.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "e4a3c26488163925bdcf3e0d00e1bd246cb46870696c2347510993cf9ea15326"
+          },
+          "size": 7456
+        },
+        {
+          "assetId": "skins/brimstone/icons/turning-point.webp",
+          "assetType": "image",
+          "checksum": {
+            "algorithm": "sha256",
+            "value": "bda18dc2c76f39ae7ac0bb7899e3eecd6babba414ee5cfcc797936d1d0c5e77a"
+          },
+          "size": 4484
         }
       ],
       "audioPools": [
@@ -1772,7 +2024,180 @@
         "avatars/western/western-056.png",
         "avatars/western/western-057.png"
       ],
-      "releaseNotes": "Full Old West ambience and combat audio for Shadows of Brimstone — exploration, town, boss, and epic-combat themes, session-end stingers, plus a set of Western hero avatars."
+      "skins": [
+        {
+          "id": "brimstone",
+          "name": "Brimstone",
+          "gameId": "shadows-of-brimstone",
+          "schemaVersion": "1",
+          "tokens": {
+            "accent100": "#f6e7cc",
+            "accent200": "#ebcf9c",
+            "accent300": "#d6a560",
+            "accent400": "#b5823f",
+            "accent500": "#a8622c",
+            "accent600": "#8c4e20",
+            "glowRgb": "214, 150, 72",
+            "appSurface": "linear-gradient(to bottom, rgba(10, 7, 5, 0.68) 0%, rgba(10, 7, 5, 0.72) 55%, rgba(10, 7, 5, 0.84) 100%), skin-asset(background) center / cover no-repeat #0a0705",
+            "surface": "linear-gradient(to bottom, rgba(10, 7, 5, 0.30) 0%, rgba(10, 7, 5, 0.20) 40%, rgba(10, 7, 5, 0.70) 85%, #0a0705 100%), skin-asset(background) center / cover no-repeat #0a0705",
+            "radiusLg": "6px",
+            "radiusXl": "6px",
+            "radius2xl": "6px",
+            "textShadow": "0 1px 2px rgba(0, 0, 0, 0.9), 0 0 10px rgba(0, 0, 0, 0.6)",
+            "dimTextBoost": "1.4",
+            "fontDisplay": "\"Rye\", Georgia, serif",
+            "displayTransform": "uppercase",
+            "dialogBg": "rgba(20, 15, 11, 0.94)",
+            "sheetBg": "rgba(21, 16, 12, 0.94)",
+            "popoverBg": "rgba(18, 13, 10, 0.96)",
+            "dialogBackdrop": "blur(10px)",
+            "overlayScrim": "rgba(6, 4, 3, 0.60)",
+            "overlayBackdrop": "blur(6px)",
+            "navBg": "rgba(12, 9, 7, 0.92)",
+            "panelBg": "rgba(20, 16, 12, 0.94)",
+            "grainTexture": "none",
+            "plateTexture": "none",
+            "plateHoverFilter": "brightness(1.3)",
+            "triggerPrimaryBg": "var(--skin-button-bg)",
+            "triggerPrimaryHoverBg": "rgb(255 255 255 / 8%)",
+            "triggerPrimaryBorder": "var(--skin-control-border)",
+            "triggerPrimaryText": "rgb(255 255 255 / 80%)",
+            "selectedBg": "rgba(70, 48, 26, 0.96)",
+            "panelHoverBg": "rgba(64, 40, 24, 0.96)",
+            "panelBackdrop": "none",
+            "panelShadow": "inset 0 1px 0 rgba(255, 226, 170, 0.5), inset 0 -1px 0 rgba(0, 0, 0, 0.6), inset 0 0 0 2px rgba(120, 86, 42, 0.55), 0 0 0 1px rgba(0, 0, 0, 0.65), 0 4px 14px rgba(0, 0, 0, 0.55)",
+            "plateShadow": "inset 0 1px 0 rgba(255, 226, 170, 0.5), inset 0 -1px 0 rgba(0, 0, 0, 0.6), inset 0 0 0 2px rgba(120, 86, 42, 0.55), 0 0 0 1px rgba(0, 0, 0, 0.65)",
+            "controlBg": "rgba(24, 19, 15, 0.90)",
+            "buttonBg": "rgba(24, 19, 15, 0.90)",
+            "glassTint": "rgba(22, 17, 13, 0.92)",
+            "hairlineRgb": "190 150 96",
+            "hairlineBoost": "2.2",
+            "glassEdge": "transparent",
+            "panelBorder": "rgba(150, 108, 56, 0.70)",
+            "dialogBorder": "rgba(150, 108, 56, 0.70)",
+            "navBorder": "rgba(150, 108, 56, 0.70)",
+            "controlBorder": "rgba(150, 108, 56, 0.70)",
+            "iconButtonBorder": "rgba(184, 138, 70, 0.95)",
+            "iconButtonColor": "rgba(226, 182, 110, 0.98)",
+            "iconButtonBg": "radial-gradient(circle at 50% 38%, rgb(48, 42, 36), rgb(16, 13, 10))",
+            "iconButtonShadow": "inset 0 0 0 2px rgba(6, 4, 2, 0.95), inset 0 0 0 3px rgba(150, 110, 56, 0.9), 0 2px 6px rgba(0, 0, 0, 0.65)",
+            "iconFilter": "saturate(0.75) hue-rotate(8deg)",
+            "primaryButtonBg": "linear-gradient(to bottom, rgba(118, 82, 34, 0.95), rgba(66, 44, 18, 0.96))",
+            "primaryButtonHoverBg": "linear-gradient(to bottom, rgba(140, 98, 42, 0.98), rgba(82, 56, 24, 0.98))",
+            "primaryButtonShadow": "inset 0 0 0 1px rgba(226, 178, 104, 0.95), inset 0 1px 0 rgba(255, 232, 190, 0.25)",
+            "primaryButtonBackdrop": "none",
+            "primaryButtonText": "#fff4e0",
+            "dangerBorder": "oklch(70.4% 0.191 22.216 / 25%)",
+            "harmButtonBg": "var(--skin-button-bg)",
+            "harmButtonHoverBg": "rgb(255 255 255 / 8%)",
+            "harmButtonBorder": "var(--skin-control-border)",
+            "harmButtonText": "rgb(255 255 255 / 80%)",
+            "accentControlBg": "rgba(36, 27, 18, 0.97)",
+            "accentControlBorder": "rgba(214, 165, 96, 0.70)",
+            "accentControlShadow": "inset 0 1px 0 rgba(255, 226, 170, 0.5), inset 0 -1px 0 rgba(0, 0, 0, 0.6), inset 0 0 0 2px rgba(120, 86, 42, 0.55), 0 0 0 1px rgba(0, 0, 0, 0.65), 0 0 10px rgba(214, 150, 72, 0.24)",
+            "playingBg": "linear-gradient(to bottom, rgba(118, 82, 34, 0.95), rgba(66, 44, 18, 0.96))",
+            "playingBorder": "transparent",
+            "playingText": "#fff4e0",
+            "playingShadow": "inset 0 0 0 1px rgba(226, 178, 104, 0.95), inset 0 1px 0 rgba(255, 232, 190, 0.25)",
+            "endConfirmBg": "radial-gradient(circle, rgb(78, 16, 12) 0%, rgb(34, 8, 6) 100%)",
+            "endConfirmBorder": "rgba(214, 168, 96, 0.95)",
+            "endConfirmColor": "rgb(232, 186, 112)",
+            "endConfirmShadow": "inset 0 0 0 2px rgba(6, 4, 2, 0.9), inset 0 0 0 6px rgba(158, 34, 26, 0.95), inset 0 0 0 7px rgba(6, 4, 2, 0.7), 0 0 10px rgba(200, 50, 36, 0.35), 0 2px 6px rgba(0, 0, 0, 0.65)",
+            "ambientPrimary": "rgba(220, 110, 40, 0.10)",
+            "ambientSecondary": "rgba(214, 165, 96, 0.08)",
+            "orbIdleFill": "radial-gradient(circle, transparent 42%, rgba(10, 6, 2, 0.5) 100%), skin-asset(orb-center) center calc(50% + 1.5px) / cover no-repeat, #3a2814",
+            "orbIdleShadow": "inset 0 -10px 18px rgba(0, 0, 0, 0.45), 0 0 8px 1px rgba(214, 150, 72, 0.12), 0 10px 26px rgba(0, 0, 0, 0.75)",
+            "orbReadyFill": "radial-gradient(circle, transparent 42%, rgba(10, 6, 2, 0.5) 100%), skin-asset(orb-center) center calc(50% + 1.5px) / cover no-repeat, #4a3218",
+            "orbReadyShadow": "inset 0 0 14px 2px rgba(255, 200, 120, 0.20), 0 0 16px 3px rgba(214, 150, 72, 0.30), 0 10px 26px rgba(0, 0, 0, 0.75)",
+            "orbActiveFill": "radial-gradient(circle, transparent 42%, rgba(10, 6, 2, 0.5) 100%), skin-asset(orb-center) center calc(50% + 1.5px) / cover no-repeat, #3a2814",
+            "orbActiveShadow": "inset 0 -10px 18px rgba(0, 0, 0, 0.40), 0 0 10px 2px rgba(214, 150, 72, 0.18), 0 10px 26px rgba(0, 0, 0, 0.75)",
+            "orbSpecular": "radial-gradient(ellipse at 40% 36%, rgba(255, 240, 215, 0.14) 0%, transparent 58%)",
+            "orbText": "#170d05",
+            "orbTextShadow": "-0.6px -0.6px 0 rgba(255, 232, 175, 0.46), 0.7px 1px 1px rgba(0, 0, 0, 0.96), 0 0 0.5px rgba(0, 0, 0, 0.9)",
+            "orbBackdrop": "none",
+            "orbRing": "rgba(214, 165, 96, 0.32)",
+            "orbFightRgb": "240, 104, 36",
+            "slotFill": "rgba(24, 19, 15, 0.90)",
+            "slotStroke": "rgba(214, 165, 96, 0.55)",
+            "slotHoverFill": "rgba(38, 30, 23, 0.94)",
+            "slotHoverStroke": "rgba(232, 188, 120, 0.85)",
+            "slotActiveFill": "rgba(214, 150, 72, 0.22)",
+            "slotDangerFill": "rgba(24, 19, 15, 0.90)",
+            "slotDangerStroke": "rgba(214, 165, 96, 0.55)",
+            "slotDangerHoverFill": "rgba(38, 30, 23, 0.94)",
+            "slotDangerHoverStroke": "rgba(232, 188, 120, 0.85)",
+            "slotDangerActiveFill": "rgba(214, 150, 72, 0.22)"
+          },
+          "assets": {
+            "background": "skins/brimstone/background.webp",
+            "orb-center": "skins/brimstone/center-riveted-shield.webp",
+            "ring-metal": "skins/brimstone/drum.webp",
+            "font-display": "skins/brimstone/fonts/rye.woff2",
+            "icon-threat": "skins/brimstone/icons/threat.webp",
+            "icon-explore": "skins/brimstone/icons/explore.webp",
+            "icon-turning-point": "skins/brimstone/icons/turning-point.webp",
+            "icon-hero-harm": "skins/brimstone/icons/hero-harm.webp",
+            "icon-scavenge": "skins/brimstone/icons/scavenge.webp",
+            "icon-darkness": "skins/brimstone/icons/darkness.webp",
+            "icon-growing-dread": "skins/brimstone/icons/growing-dread.webp",
+            "icon-clue": "skins/brimstone/icons/clue.webp",
+            "icon-portal": "skins/brimstone/icons/portal.webp",
+            "icon-enemy-down": "skins/brimstone/icons/enemy-down.webp",
+            "icon-town-event": "skins/brimstone/icons/town-event.webp",
+            "icon-hero-recovery": "skins/brimstone/icons/hero-recovery.webp",
+            "icon-travel-hazard": "skins/brimstone/icons/travel-hazard.webp",
+            "icon-hero-loss": "skins/brimstone/icons/hero-loss.webp",
+            "icon-major-acquisition": "skins/brimstone/icons/major-acquisition.webp",
+            "icon-note": "skins/brimstone/icons/note.webp",
+            "icon-shield-swords": "skins/brimstone/icons/shield-swords.webp",
+            "icon-fight-resume": "skins/brimstone/icons/fight-resume.webp",
+            "icon-lantern-lit": "skins/brimstone/icons/lantern-lit.webp",
+            "icon-lantern-dark": "skins/brimstone/icons/lantern-dark.webp",
+            "icon-flag-compass": "skins/brimstone/icons/flag-compass.webp",
+            "icon-flag-cross": "skins/brimstone/icons/flag-cross.webp",
+            "icon-flag-return": "skins/brimstone/icons/flag-return.webp",
+            "icon-flag-victory": "skins/brimstone/icons/flag-victory.webp"
+          },
+          "ring": {
+            "shape": "drum",
+            "texture": "ring-metal"
+          },
+          "eventIcons": {
+            "threat": "icon-threat",
+            "exploration": "icon-explore",
+            "mission_turning_point": "icon-turning-point",
+            "hero_harm": "icon-hero-harm",
+            "scavenge": "icon-scavenge",
+            "darkness": "icon-darkness",
+            "growing_dread": "icon-growing-dread",
+            "clue": "icon-clue",
+            "portal": "icon-portal",
+            "enemy_down": "icon-enemy-down",
+            "town_event": "icon-town-event",
+            "town_location": "icon-town-event",
+            "hero_recovery": "icon-hero-recovery",
+            "travel_hazard": "icon-travel-hazard",
+            "hero_loss": "icon-hero-loss",
+            "major_acquisition": "icon-major-acquisition",
+            "note": "icon-note",
+            "fight_end": "icon-shield-swords",
+            "fight_resume": "icon-fight-resume",
+            "session_start": "icon-lantern-lit",
+            "session_end": "icon-lantern-dark",
+            "mission_start": "icon-flag-compass",
+            "mission_fail": "icon-flag-cross",
+            "mission_resume": "icon-flag-return",
+            "mission_win": "icon-flag-victory"
+          },
+          "fontFaces": [
+            {
+              "family": "Rye",
+              "asset": "font-display"
+            }
+          ]
+        }
+      ],
+      "releaseNotes": "Adds the Brimstone game skin with its weathered bronze orb, revolver drum, event icons, and Rye display typeface; includes the existing Old West audio and hero avatars."
     }
   ]
 }
